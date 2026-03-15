@@ -2,6 +2,8 @@
 
 The code implements a **gyro drift correction system** for a drone using computer vision. Here's the simple explanation:
 
+To run the code, run hover_control.py
+
 **The Problem:**
 Drones have gyroscopes that measure rotation, but gyroscopes slowly drift over time (they lose accuracy). The drone needs to correct this drift to hover straight.
 
